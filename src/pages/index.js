@@ -80,7 +80,10 @@ const IndexPage = () => (
             Chungnam National University
           </h4>
           <p className="korean">
-            학교설명~
+            대전광역시 유성구에 위치한 4년제 국립대학교이다. 14개의 단과대학, 2개의 학부와 14개의 대학원을 가진다. 
+            국가와 인류사회의 발전에 필요한 학술의 심오한 이론과 그 응용방법을 교수ㆍ연구하는 동시에 창의ㆍ개발ㆍ봉사정신이 풍부한 지도적 인격을 갖춘 인재를 양성함을 교육 목표로 한다.
+            <br/>
+                <a href="javascript:window.open('http://plus.cnu.ac.kr/html/kr/','CNU!','')" style={{float:'right'}}>학교 바로가기</a>
           </p>
         </div>
       </section>
@@ -138,7 +141,7 @@ const IndexPage = () => (
           <h2>Preview</h2>
           <p>
             Here is preview. If you want more, Click the menu and category.
-            <br />
+            <br/>
             <div className="korean">맛보기에요. 더 자세한 설명은 메뉴에서 원하시는 영역을 선택해주세요.</div>
           </p>
         </header>
@@ -154,7 +157,7 @@ const IndexPage = () => (
             <p className="korean">
               선을 따라 달리는 자율 주행 자동차로 적외선 신호를 감지하는 센서부, 이를 통해 PID 제어를 하는 제어부, 열심히 달리는 구동부로 구성.
               <br/>
-              <Link to="/tracer" style={{float:'right'}}>더 알아보기</Link>
+              <Link to="/tracer" target="_blank" style={{float:'right'}}>더 알아보기</Link>
             </p>
           </li>
           <li className="icon solid fa-code">

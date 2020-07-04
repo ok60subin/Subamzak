@@ -1,8 +1,38 @@
-@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic+Coding:wght@700&family=Nanum+Gothic:wght@800&family=Poor+Story&family=Sunflower:wght@500&display=swap');
+@font-face { font-family: 'TTTogether'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/TTTogetherA.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'yg-jalnan'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'NEXON Lv1 Gothic OTF'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'NEXON Lv1 Gothic OTF Bold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF Bold.woff') format('woff'); font-weight: normal; font-style: normal; }
 .korean {
-    font-family :'Nanum Gothic', sans-serif;
+    font-family :'NEXON Lv1 Gothic OTF', sans-serif;
 }
 
+.tracer blockquote{
+    font-family: 'NEXON Lv1 Gothic OTF Bold', sans-serif;
+    font-size: 23px;
+}
+.tracer h3{
+    font-family: 'TTTogether', sans-serif;
+    font-size:30px;
+    font-weight: 300;
+}
+
+.tracer h4{
+    font-family: 'yg-jalnan', sans-serif;
+    font-weight:300;
+    font-size: 25px;
+
+}
+
+.tracer p{
+    font-family: 'IBMPlexSansKR-Text', sans-serif;
+    font-size: 22px;
+}
+
+.tracer a {
+    color:indianred;
+    font-weight:bold;
+}
 mark{
     background-color: darkslategrey;
 }
