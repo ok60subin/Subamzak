@@ -2,3 +2,11 @@
 .korean {
     font-family :'Nanum Gothic', sans-serif;
 }
+
+mark{
+    background-color: darkslategrey;
+}
+
+a:hover{
+    color:tomato;
+}
