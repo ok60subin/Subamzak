@@ -171,7 +171,7 @@ const IndexPage = () => (
             <p className="korean"> 
               HTML, CSS, JAVASCRIPT 만을 이용 해 도전한 첫 웹 개발 프로젝트. <br/><br/>
 
-              <a href="javascript:window.open('https://subamjak.netlify.app/','Gukbang!','')" style={{float:'right', text:'blue'}}>수밤작 매운맛</a>
+              <a href="javascript:window.open('https://spicy-subamzak.netlify.app/','Gukbang!','')" style={{float:'right', text:'blue'}}>수밤작 매운맛</a>
             </p>
           </li>
         </ul>
