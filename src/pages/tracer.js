@@ -2,15 +2,15 @@ import React from 'react';
 import './tracer.css'
 import Layout from '../components/Layout';
 
-import running1 from '../assets/images/projects/running1.png';
-import running2 from '../assets/images/projects/running2.png';
-import running3 from '../assets/images/projects/running3.png';
-import lt_second from '../assets/images/projects/lt_second.jpg';
-import se_c from '../assets/images/projects/se_c.png';
-import se_d from '../assets/images/projects/se_d.png';
-import lt_third from '../assets/images/projects/lt_third.jpg';
-import th_d from '../assets/images/projects/th_d.png';
-import th_s from '../assets/images/projects/th_s.png';
+import running1 from '../assets/images/running1.png';
+import running2 from '../assets/images/running2.png';
+import running3 from '../assets/images/running3.png';
+import lt_second from '../assets/images/lt_second.jpg';
+import se_c from '../assets/images/se_c.png';
+import se_d from '../assets/images/se_d.png';
+import lt_third from '../assets/images/lt_third.jpg';
+import th_d from '../assets/images/th_d.png';
+import th_s from '../assets/images/th_s.png';
 
 const IndexPage = () => (
   <Layout fullMenu>
