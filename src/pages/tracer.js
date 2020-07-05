@@ -6,11 +6,11 @@ import running1 from '../assets/images/projects/running1.png';
 import running2 from '../assets/images/projects/running2.png';
 import running3 from '../assets/images/projects/running3.png';
 import lt_second from '../assets/images/projects/lt_second.jpg';
-import se_c from '../assets/images/projects/se_c.png';
-import se_d from '../assets/images/projects/se_d.png';
+import se_c from '../assets/images/projects/se_c.PNG';
+import se_d from '../assets/images/projects/se_d.PNG';
 import lt_third from '../assets/images/projects/lt_third.jpg';
-import th_d from '../assets/images/projects/th_d.png';
-import th_s from '../assets/images/projects/th_s.png';
+import th_d from '../assets/images/projects/th_d.PNG';
+import th_s from '../assets/images/projects/th_s.PNG';
 
 const IndexPage = () => (
   <Layout fullMenu>
@@ -22,7 +22,7 @@ const IndexPage = () => (
       <section className="wrapper style5 korean">
         <div className="inner tracer">
            
-        {/* <ul>
+        <ul>
           <li>
           <h3>라인 트레이서?</h3>
           <blockquote>
@@ -170,7 +170,7 @@ const IndexPage = () => (
               </div>
 					  </div>
             </li>
-            </ul> */}
+            </ul>
 
         </div>
       </section>
