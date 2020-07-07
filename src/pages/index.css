@@ -6,34 +6,11 @@
 .korean {
     font-family :'NEXON Lv1 Gothic OTF', sans-serif;
 }
-
-.tracer blockquote{
-    font-family: 'NEXON Lv1 Gothic OTF Bold', sans-serif;
-    font-size: 23px;
-}
-.tracer h3{
-    font-family: 'TTTogether', sans-serif;
-    font-size:30px;
-    font-weight: 300;
+.Title{
+    font-family :'NEXON Lv1 Gothic OTF Bold', sans-serif;
 }
 
-.tracer h4{
-    font-family: 'yg-jalnan', sans-serif;
-    font-weight:300;
-    font-size: 25px;
 
-}
-
-.tracer p{
-    font-family: 'NEXON Lv1 Gothic OTF', sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-}
-
-.tracer a {
-    color:indianred;
-    font-weight:bold;
-}
 mark{
     background-color: darkslategrey;
 }
@@ -41,3 +18,53 @@ mark{
 a:hover{
     color:tomato;
 }
+
+
+
+/* tracer page */
+
+.tracer blockquote{
+    font-family: 'NEXON Lv1 Gothic OTF Bold', sans-serif;
+}
+.tracer h3{
+    font-family: 'TTTogether', sans-serif;
+    font-weight: 300;
+}
+
+.tracer h4{
+    font-family: 'yg-jalnan', sans-serif;
+    font-weight:300;
+
+}
+
+.tracer p{
+    font-family: 'NEXON Lv1 Gothic OTF', sans-serif;
+    font-weight: 600;
+}
+
+.tracer a {
+    color:indianred;
+    font-weight:bold;
+}
+
+.box div img{
+    height:250px;
+    border: solid 10px;
+    border-color: #13b398;
+}
+
+.col12 span img{
+    height:500px;
+}
+.prize div span img{
+    height:500px;
+    width:300px;
+}
+
+.project div ul{
+    margin-left:6%;
+}
+.project div>ul>li{
+    margin-bottom: 1.5em;
+}
+            

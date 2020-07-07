@@ -1,5 +1,5 @@
 import React from 'react';
-import './tracer.css'
+import './index.css'
 import Layout from '../components/Layout';
 
 import running1 from '../assets/images/running1.png';

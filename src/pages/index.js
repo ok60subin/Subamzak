@@ -101,7 +101,7 @@ const IndexPage = () => (
           <p className="korean">
                 메카트로닉스(Mechatronics)는 <mark>기계공학(Mechanics)과 전자공학(Electronics)의
                 합성어</mark>로 컴퓨터 제어 및 정보처리 기술 등과 같은 전자공학에서 발전시킨 기술을 기계공학에 적용하는 새로운 기술 분야이다.
-                <br/><br/>
+                <br/>
                 교양과목(수학, 물리학, 프로그래밍언어 등)을 통해 공학의 기초 소양을 쌓고, 동역학, 고체역학, 기계공작법, 전자회로실험, 디지털회로실험 등을 전공 기초과목으로 이수한 후
                 기계시스템, 전기전자시스템, 컴퓨터시스템, 융합시스템 분야로 나누어진 메카트로닉스공학의 응용기술을 배운다.
                 이처럼 메카트로닉스공학과 전공과정에서는 기계 및 전자시스템의 특성을 이해하고 컴퓨터제어시스템 분석 및 설계에 관한 체험적 전문지식을 습득할 수 있도록 이론과 실습을 겸비한 종합적인 교육을
@@ -125,7 +125,7 @@ const IndexPage = () => (
           <p className="korean">
               국방 무인 시스템과 관련한 <mark>기계 및 전기/전자 요소 기술에 대한 기본적 이해를 바탕으로 관련된 SW를 창의적으로 설계
               제작</mark>할 수 있는 실무형 인력 양성을 목표로 하는 과정이다.
-              <br/><br/>
+              <br/>
               2개 이상의 학과·학부·전공 간 합의하여 융합학문 교육을 위해 운영하는 전공과정으로 본 과인 메카트로닉스공학과와 컴퓨터 융합학부의 교육과정을 연계해 듣는 과정이다.
               메카트로닉스공학과에서는 수치해석, 디지털 회로실습, 인공지능 개론등이 속하며 컴퓨터 융합학부 과정에서는 모바일 프로그래밍, 웹 프로그래밍, 고급JAVA 프로그램 등이 있다.
               <br/>
@@ -157,7 +157,7 @@ const IndexPage = () => (
             <p className="korean">
               선을 따라 달리는 자율 주행 자동차로 적외선 신호를 감지하는 센서부, 이를 통해 PID 제어를 하는 제어부, 열심히 달리는 구동부로 구성.
               <br/>
-              <Link to="/tracer" target="_blank" style={{float:'right'}}>더 알아보기</Link>
+              <Link to="/tracer" style={{float:'right'}}>더 알아보기</Link>
             </p>
           </li>
           <li className="icon solid fa-code">
@@ -171,7 +171,7 @@ const IndexPage = () => (
             <p className="korean"> 
               HTML, CSS, JAVASCRIPT 만을 이용 해 도전한 첫 웹 개발 프로젝트. <br/><br/>
 
-              <a href="javascript:window.open('https://spicy-subamzak.netlify.app/','Gukbang!','')" style={{float:'right', text:'blue'}}>수밤작 매운맛</a>
+              <a href="javascript:window.open('https://spicy-subamzak.netlify.app/','spicy!','')" style={{float:'right', text:'blue'}}>수밤작 매운맛</a>
             </p>
           </li>
         </ul>

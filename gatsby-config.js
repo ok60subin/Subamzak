@@ -5,8 +5,9 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
   },
+  
   plugins: [
-    'gatsby-plugin-react-helmet',
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -21,5 +22,14 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-  ],
+       
+    {
+        resolve: `gatsby-source-filesystem`,
+        options:{
+            path: `${__dirname}/src/md-pages`,
+            name: `pages`
+        }
+    },
+    'gatsby-transformer-remark'
+  ]
 };
