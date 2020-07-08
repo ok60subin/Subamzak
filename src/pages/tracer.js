@@ -30,8 +30,8 @@ const IndexPage = () => (
               <br/>
               여러가지 알고리즘을 통해, 여러차례 기록을 측정하고, 기록이 빠른 순으로 순위가 결정된다.
             </blockquote>
-            <div className="box alt">
-              <div className="row gtr-50 gtr-uniform">
+            <div className="box alt tracerimg">
+              <div className="row gtr-50 gtr-uniform imgs">
                 <div className="col-4"><span className="image fit"><img src={running1} alt="running1"/></span></div>
                 <div className="col-4"><span className="image fit"><img src={running2} alt="running2"/></span></div>
                 <div className="col-4"><span className="image fit"><img src={running3} alt="running3"/></span></div>
@@ -90,22 +90,16 @@ const IndexPage = () => (
                 <br/>
                 (2019년 단국대학교 라인트레이서 대회)
             </p>
-            {/* <div>
-                <video width="515px" height="285px" controls>
-                    <source src="video/run_1.mp4" type="video/mp4"/>
-                </video>
-            </div> */}
+            
+            <iframe width="784" height="441" src="https://www.youtube.com/embed/Ck_iRWbGfvs?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <br/><br/>
             <h4>2차 주행</h4>
             <p>
                 코너에서는 1차 주행의 가감속과 같이 주행하고, 직선에서는 남은 거리와 현재 위치를 계산해가며 안정적이면서도 최대의 속도를 낼 수 있는 속도로 가속한다.
                 <br/>
                 (2019년 단국대학교 라인트레이서 대회)
             </p>
-            {/* <div>
-                <video width="515px" height="285px" controls>
-                    <source src="video/run_2.mp4" type="video/mp4"/>
-                </video>
-            </div> */}
+            <iframe width="784" height="441" src="https://www.youtube.com/embed/UgiJ8yBeiCs?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </li>
             <li>
             <h3>첫 번째 시도!</h3>

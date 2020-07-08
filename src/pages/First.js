@@ -32,7 +32,7 @@ query IndexQuery1{
   allMarkdownRemark(
     limit:10
     sort: { fields : [frontmatter___title], order: ASC}
-    filter: { frontmatter: {published: {eq:true}}}
+    filter: { frontmatter: {grade: {eq:"1"}}}
     ){
     edges{
       node{

@@ -4,6 +4,7 @@ import { Link } from 'gatsby';
 export default function ProjectIndex({ fullMenu }) {
   const [headerOpen, toggleHeader] = useState(false);
   return (
+    <div>
     <div className="row project">
                 <div className="col-5 col-12-medium">
                   <h2 className="Title">Grade</h2>
@@ -27,7 +28,8 @@ export default function ProjectIndex({ fullMenu }) {
                                 
                 {/* <Link to="/All" className="button primary small korean"> 다 보러가기 ★  </Link> */}
 
-                <hr/>
+         </div>
+         <hr/>
          </div>
   );
 }

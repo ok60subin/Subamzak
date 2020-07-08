@@ -3,7 +3,6 @@ import { Link } from 'gatsby';
 import Layout from '../components/Layout';
 
 import ProjectIndex from '../components/ProjectIndex'
-
 const IndexPage = ({data}) => (
     <Layout fullMenu>
       <article id="main">
@@ -21,6 +20,7 @@ const IndexPage = ({data}) => (
                 <li>  <a href={ post.node.frontmatter.path}> {post.node.frontmatter.title}</a> </li>
               ))}
           </ul>
+
          </div>
         </section>
       </article>
