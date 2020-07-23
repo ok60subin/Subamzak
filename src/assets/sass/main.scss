@@ -1932,7 +1932,7 @@
 		}
 	}
 
-	.tracerimg {
+	.threeimg {
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 
@@ -1943,7 +1943,41 @@
 
 		@include breakpoint('<=large') {
 			.imgs div{
-				width: 33%;
+				width: 34%;
+			}
+		}
+
+	
+		@include breakpoint('<=medium') {
+			display: block;
+
+			br {
+				display: none;
+			}
+
+			.imgs div{
+				width: 100%;
+			}
+			.imgs div>div{
+				display:block;
+			}
+
+		}
+	}
+
+	.twoimg {
+		@include vendor('align-items', 'center');
+		@include vendor('display', 'flex');
+
+		.imgs div{
+			@include vendor('order', '1');
+			border-radius: 0;
+		}
+
+
+		@include breakpoint('<=large') {
+			.imgs div{
+				width: 200%;
 			}
 		}
 

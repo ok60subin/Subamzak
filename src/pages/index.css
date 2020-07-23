@@ -24,6 +24,9 @@ iframe{
     border-color: mediumslateblue;
 }
 
+.col-12 img{
+    height:400px;
+}
 /* tracer page */
 
 .tracer blockquote{
@@ -51,18 +54,10 @@ iframe{
 }
 
 .box div img{
-    height:250px;
     border: solid 10px;
     border-color: #13b398;
 }
 
-.col12 span img{
-    height:500px;
-}
-.prize div span img{
-    height:500px;
-    width:300px;
-}
 
 .project div ul{
     margin-left:6%;
@@ -93,3 +88,21 @@ iframe{
     font-weight:bold;
     float:right;
 }
+
+.prize div span img{
+    height:500px;
+    width:300px;
+}
+
+.multi div>span>img{
+    height:270px;
+}
+
+.row{
+    width:100%;
+}
+.multi iframe{
+    width:100%;
+}
+
+

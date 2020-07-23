@@ -1,8 +1,8 @@
 ---
 path: "/line-tracer"
-title: "라인트레이서"
+title: "라인 트레이서"
 published: true
-grade: "3"
+grade: "0"
 field: "mechanic"
 competition: true
 ---
@@ -26,7 +26,7 @@ competition: true
 <h4>결과</h4>
 
 
-<div class="box alt tracerimg">
+<div class="box alt threeimg">
               <div class="row gtr-50 gtr-uniform imgs prize">
                 <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/se_c.png?raw=true"  alt="se_C"></span></div>
                 <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/se_d.png?raw=true" alt="se_D"></span></div>
@@ -65,7 +65,7 @@ competition: true
 </div>
 <h4>결과</h4>
 
-<div class="box alt tracerimg">
+<div class="box alt threeimg">
               <div class="row gtr-50 gtr-uniform imgs prize">
                 <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/th_d.png?raw=true"  alt="third_danguk"></span></div>
                 <div class="col-4"><span class="image fit"><img src="https://github.com/ok60subin/subamzak/blob/master/src/assets/images/th_s.png?raw=true" alt="third_sirip"></span></div>

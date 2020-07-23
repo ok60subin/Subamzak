@@ -10,7 +10,7 @@ export default function Template({data}) {
       <article id="main">
             <header>
                 <h2 className="Title">{post.frontmatter.title}</h2>
-                <p className="korean">수빈이는 무슨 짓거리를 하던가요.</p>
+                <p className="korean">앍! 이게뭐얅!</p>
             </header>
             <section className="wrapper style5 md">
                 <div className="inner">
