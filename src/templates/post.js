@@ -32,6 +32,7 @@ export const postQuery = graphql`
         published
         competition
         grade
+        cover
       }
     }
   }

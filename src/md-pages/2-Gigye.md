@@ -5,6 +5,7 @@ published: true
 grade: "2"
 field: "mechanic"
 competition: false
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.png?raw=true"
 ---
 
 <h3>개요</h3>

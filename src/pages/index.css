@@ -89,6 +89,40 @@ iframe{
     float:right;
 }
 
+.mdcover {
+    width:100%;
+    margin-left:2%;
+}
+
+.mdcover li{
+    height:270px;
+    display:inline-block;
+    padding: 10px;
+    margin-bottom:5px;
+    margin-right:2px;
+    
+}
+
+.mdcover li>a{
+    text-decoration: none;
+    text-align: center;
+    width:100%;
+    vertical-align: middle;
+}
+.mdcover li>a>img{
+    width:100%;
+    height:80%;
+    display: block;
+}
+.mdcover li>a>p{
+    margin-top: 5%;
+    width:100%;
+    height:10%;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+}
+
 .prize div span img{
     height:500px;
     width:300px;

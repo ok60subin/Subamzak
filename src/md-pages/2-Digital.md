@@ -5,6 +5,7 @@ published: true
 grade: "2"
 field: "electronic"
 competition: false
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/molcad.png?raw=true"
 ---
 
 <h3>두더지 잡기</h3>

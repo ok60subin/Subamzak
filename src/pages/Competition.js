@@ -13,11 +13,19 @@ const IndexPage = ({data}) => (
 
       <section className="wrapper style5">
         <div className="inner korean">
-            <ul>
-              {data.allMarkdownRemark.edges.map(post => (
-                <li>  <a href={ post.node.frontmatter.path}> {post.node.frontmatter.title}</a> </li>
-              ))}
-          </ul>
+          <h2>대회 모아보기</h2>
+          <hr/>
+          <ul className="mdcover" >
+                {data.allMarkdownRemark.edges.map(post => (
+                  <li>  <a href={post.node.frontmatter.path}> 
+                          <img src={post.node.frontmatter.cover} alt="cover"/>
+                          <p>{post.node.frontmatter.title}</p>
+
+                        </a> 
+                  </li>
+                ))}
+            </ul>
+
          </div>
         </section>
       </article>
@@ -38,6 +46,7 @@ query IndexQuery10{
           title
           path
           grade
+          cover
         }
       }
     }

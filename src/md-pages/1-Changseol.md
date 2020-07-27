@@ -5,6 +5,7 @@ published: true
 grade: "1"
 field: "mechanic"
 competition: false
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/suncar2.png?raw=true"
 ---
 <h3>태양전지 자동차</h3>
             <h4>개요</h4>

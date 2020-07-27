@@ -5,6 +5,7 @@ published: true
 grade: "2"
 field: "mechanic"
 competition: false
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mixer.png?raw=true"
 ---
 <h3>Parametic CREO</h3>
     <h4>Hand blender</h4>

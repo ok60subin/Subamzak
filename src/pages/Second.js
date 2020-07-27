@@ -16,9 +16,14 @@ const IndexPage = ({data}) => (
       <section className="wrapper style5">
         <div className="inner korean">
           <ProjectIndex></ProjectIndex>
-            <ul>
+          <ul className="mdcover" >
               {data.allMarkdownRemark.edges.map(post => (
-                <li>  <a href={ post.node.frontmatter.path}> {post.node.frontmatter.title}</a> </li>
+                <li>  <a href={post.node.frontmatter.path}> 
+                        <img src={post.node.frontmatter.cover} alt="cover"/>
+                        <p>{post.node.frontmatter.title}</p>
+
+                      </a> 
+                </li>
               ))}
           </ul>
          </div>
@@ -46,6 +51,7 @@ query IndexQuery2{
           published
           grade
           competition
+          cover
         }
       }
     }

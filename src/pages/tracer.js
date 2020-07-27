@@ -30,7 +30,7 @@ const IndexPage = () => (
               <br/>
               여러가지 알고리즘을 통해, 여러차례 기록을 측정하고, 기록이 빠른 순으로 순위가 결정된다.
             </blockquote>
-            <div className="box alt tracerimg">
+            <div className="box alt tracerimg threeimg">
               <div className="row gtr-50 gtr-uniform imgs">
                 <div className="col-4"><span className="image fit"><img src={running1} alt="running1"/></span></div>
                 <div className="col-4"><span className="image fit"><img src={running2} alt="running2"/></span></div>

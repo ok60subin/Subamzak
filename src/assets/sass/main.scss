@@ -1997,3 +1997,37 @@
 
 		}
 	}
+
+	.mdcover {
+		@include vendor('align-items', 'center');
+
+		li{
+			@include vendor('order', '2');
+			border-radius: 0;
+			display:inline-block;
+			width:32%;
+		}
+
+		@include breakpoint('<=large') {
+			
+			li{
+				width: 48%;
+			}
+			
+		}
+
+	
+		@include breakpoint('<=medium') {
+			display: block;
+
+			br {
+				display: none;
+			}
+
+			li{
+				width: 100%;
+				display:block;
+			}
+
+		}
+	}

@@ -1,10 +1,11 @@
 ---
 path: "/line-tracer"
-title: "라인 트레이서"
+title: "라인 트레이서 대회"
 published: true
 grade: "0"
 field: "mechanic"
 competition: true
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true"
 ---
 
 <h3>첫 번째 시도!</h3>
