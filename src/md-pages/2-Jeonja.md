@@ -5,7 +5,7 @@ published: true
 grade: "2"
 field: "electronic"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/pincircuit2.png?raw=true"
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/jeonjacover.png?raw=true"
 ---
 <h3>익스트림 오토매틱 핀볼</h3>
     <p>
