@@ -39,5 +39,5 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mop.
 </p>
 <h4>구동 영상</h4>
 <div class="box alt multi">
-    <iframe height="600px" src="https://www.youtube.com/embed/xxslEjCgYFM?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe height="600px" src="https://www.youtube.com/embed/b9OtbTSQd3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
