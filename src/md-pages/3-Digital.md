@@ -29,5 +29,5 @@ cover: "http://kdesignaward.com/files/attach/images/57144/258/059/f02d797ef3f8f9
     볼 수 있다.
 </p>
 <div class="box alt multi">
-    <iframe src="https://www.youtube.com/embed/xxslEjCgYFM?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe height="600px" src="https://www.youtube.com/embed/xxslEjCgYFM?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

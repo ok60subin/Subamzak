@@ -157,7 +157,7 @@ const IndexPage = () => (
             <p className="korean">
               선을 따라 달리는 자율 주행 자동차로 적외선 신호를 감지하는 센서부, 이를 통해 PID 제어를 하는 제어부, 열심히 달리는 구동부로 구성.
               <br/>
-              <Link to="/tracer" style={{float:'right'}}>더 알아보기</Link>
+              <Link to="/Tracer" style={{float:'right'}}>더 알아보기</Link>
             </p>
           </li>
           <li className="icon solid fa-code">
@@ -167,7 +167,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="icon fa-heart ">
-            <h3>spicy Subamjak</h3>
+            <h3>spicy Subamzak</h3>
             <p className="korean"> 
               HTML, CSS, JAVASCRIPT 만을 이용 해 도전한 첫 웹 개발 프로젝트. <br/><br/>
 

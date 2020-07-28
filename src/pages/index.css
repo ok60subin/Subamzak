@@ -89,6 +89,10 @@ iframe{
     float:right;
 }
 
+.md blockquote{
+    font-family: 'NEXON Lv1 Gothic OTF Bold', sans-serif;
+}
+
 .mdcover {
     width:100%;
     margin-left:2%;
