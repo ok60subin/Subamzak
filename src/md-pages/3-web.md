@@ -10,7 +10,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/bann
 <h3 style="color:tomato;">수밤작 매운맛</h3>
 <p>
     난생 처음으로 <I> 완성한 </I> 첫 웹프로그래밍 프로젝트
-</p>
+</p><br>
 <h4>개요</h4>
 <p>
     메뉴 버튼 복붙할려니 넘 헷갈리던데... 그냥 구경하세용...<br>

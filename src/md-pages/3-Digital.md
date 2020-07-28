@@ -5,7 +5,7 @@ published: true
 grade: "3"
 field: "electronics"
 competition: false
-cover: "http://kdesignaward.com/files/attach/images/57144/258/059/f02d797ef3f8f963bbff1b273c75f28c.jpg"
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/digitalcover.png?raw=true"
 ---
 
 <h3> 상보필터</h3>

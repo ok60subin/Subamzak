@@ -167,7 +167,7 @@ const IndexPage = () => (
             </p>
           </li>
           <li className="icon fa-heart ">
-            <h3>spicy Subamzak</h3>
+            <h3>Spicy Subamzak</h3>
             <p className="korean"> 
               HTML, CSS, JAVASCRIPT 만을 이용 해 도전한 첫 웹 개발 프로젝트. <br/><br/>
 
