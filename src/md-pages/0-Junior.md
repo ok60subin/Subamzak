@@ -5,16 +5,8 @@ published: true
 grade: "0"
 field: "electronics"
 competition: true
-cover: "http://kdesignaward.com/files/attach/images/57144/258/059/f02d797ef3f8f963bbff1b273c75f28c.jpg"
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/doorlockcover.png?raw=true"
 ---
- <div class="box alt">
-    <div class="row gtr-50 gtr-uniform">
-        <div class="col-12"><span class="image fit"> 
-            <img src="http://kdesignaward.com/files/attach/images/57144/258/059/f02d797ef3f8f963bbff1b273c75f28c.jpg"
-            alt="doorlock">
-        </span></div>
-    </div>
-</div>
 <h3>절대 혼자가 아니야, <span style="color:red">도어락</span> </h3>
 
 <p>블루투스 통신을 이용해 도어락을 제어한다. 침입자 발생 시, 경고알림과 함께 문을 봉쇄한다.</p>
