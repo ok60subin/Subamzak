@@ -6,7 +6,7 @@ module.exports = {
     title: config.siteTitle,
     author: 'Subin Jeong',
     description: "Subin's Nightmares are all here...",
-    siteUrl:"https://subamzak.com",
+    siteUrl:"https://subamzak.netlify.app",
   },
   
   plugins: [
@@ -32,6 +32,14 @@ module.exports = {
             path: `${__dirname}/src/md-pages`,
             name: `pages`
         }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://subamzak.netlify.app',
+        sitemap: 'https://subamzak.netlify.app/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
     },
     'gatsby-transformer-remark',
     'gatsby-plugin-sitemap'
