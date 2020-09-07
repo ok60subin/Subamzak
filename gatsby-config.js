@@ -4,6 +4,9 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
+    author: 'Subin Jeong',
+    description: "Subin's Nightmares are all here...",
+    siteUrl:"https://subamzak.com",
   },
   
   plugins: [
@@ -30,6 +33,7 @@ module.exports = {
             name: `pages`
         }
     },
-    'gatsby-transformer-remark'
+    'gatsby-transformer-remark',
+    'gatsby-plugin-sitemap'
   ]
 };
