@@ -11,6 +11,10 @@ import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
 import './index.css'
 const IndexPage = () => (
+  <meta
+    name="Home"
+    content="Author: Subin, Category: Project, Mechatronics"
+  ></meta>
   <Layout>
     <section id="banner">
       <div className="inner">
