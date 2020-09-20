@@ -33,14 +33,6 @@ module.exports = {
             name: `pages`
         }
     },
-    {
-      resolve: 'gatsby-plugin-robots-txt',
-      options: {
-        host: 'https://subamzak.netlify.app',
-        sitemap: 'https://subamzak.netlify.app/sitemap.xml',
-        policy: [{ userAgent: '*', allow: '/' }]
-      }
-    },
     'gatsby-transformer-remark',
     'gatsby-plugin-sitemap'
   ]
