@@ -1,9 +1,13 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/Layout';
+import MetaHelmet from '../components/MetaHelmet';
 
 const IndexPage = ({data}) => (
     <Layout fullMenu>
+          <MetaHelmet 
+            title="수빈이 밤샘 대회들"
+          />
       <article id="main">
         <header>
           <h2 className="Title">Competition</h2>
@@ -13,7 +17,7 @@ const IndexPage = ({data}) => (
 
       <section className="wrapper style5">
         <div className="inner korean">
-          <h2>대회 모아보기</h2>
+          <h2>All Competitions</h2>
           <hr/>
           <ul className="mdcover" >
                 {data.allMarkdownRemark.edges.map(post => (

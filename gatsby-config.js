@@ -6,7 +6,7 @@ module.exports = {
     title: config.siteTitle,
     author: 'Subin Jeong',
     description: "Subin's Nightmares are all here...",
-    siteUrl:"https://subamzak.netlify.app",
+    url:"https://subamzak.netlify.app",
   },
   
   plugins: [

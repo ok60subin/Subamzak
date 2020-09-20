@@ -9,7 +9,7 @@ cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/bann
 ---
 <h3 style="color:tomato;">수밤작 매운맛</h3>
 <p>
-    난생 처음으로 <I> 완성한 </I> 첫 웹프로그래밍 프로젝트
+    난생 처음으로  완성한   첫 <I>웹프로그래밍 </I>프로젝트
 </p><br>
 <h4>개요</h4>
 <p>

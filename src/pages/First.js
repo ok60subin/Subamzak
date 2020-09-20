@@ -1,10 +1,14 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/Layout';
+import MetaHelmet from '../components/MetaHelmet';
 import ProjectIndex from '../components/ProjectIndex'
 
 const IndexPage = ({data}) => (
     <Layout fullMenu>
+      <MetaHelmet 
+        title="수빈이 밤샘 프로젝트들"
+      />
       <article id="main">
         <header>
           <h2 className="Title">1st Proejct</h2>

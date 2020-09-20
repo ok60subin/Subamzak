@@ -1,21 +1,24 @@
 import React from 'react';
 import { Link } from 'gatsby';
+
 import Layout from '../components/Layout';
-
+import MetaHelmet from '../components/MetaHelmet'
 import Scroll from '../components/Scroll';
-
 
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
+import banner from '../assets/images/banner.jpg';
 import config from '../../config';
 import './index.css'
+
+
+
 const IndexPage = () => (
-  <meta
-    name="Home"
-    content="Author: Subin, Category: Project, Mechatronics"
-  ></meta>
   <Layout>
+    <MetaHelmet 
+      title="수밤작"
+    />
     <section id="banner">
       <div className="inner">
         <h2>{config.heading}</h2>

@@ -2,11 +2,16 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Layout from '../components/Layout'
 
+import MetaHelmet from '../components/MetaHelmet';
+
 export default function Template({data}) {
   const {markdownRemark: post} = data;
   // const post = data.markdownRemark;
   return (
     <Layout fullMenu>
+      <MetaHelmet 
+        title={post.frontmatter.title}
+      />
       <article id="main">
             <header>
                 <h2 className="Title">{post.frontmatter.title}</h2>

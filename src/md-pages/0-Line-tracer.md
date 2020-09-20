@@ -6,6 +6,7 @@ grade: "0"
 field: "mechanic"
 competition: true
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/lt_third.jpg?raw=true"
+description: "라인트레이서(Linetracer) 대회출전 및 수상실적"
 ---
 
 <h3>첫 번째 시도!</h3>

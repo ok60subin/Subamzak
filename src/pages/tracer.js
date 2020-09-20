@@ -1,19 +1,18 @@
 import React from 'react';
 import './index.css'
 import Layout from '../components/Layout';
+import MetaHelmet from '../components/MetaHelmet';
+import { Link } from 'gatsby';
 
 import running1 from '../assets/images/running1.png';
 import running2 from '../assets/images/running2.png';
 import running3 from '../assets/images/running3.png';
-import lt_second from '../assets/images/lt_second.jpg';
-import se_c from '../assets/images/se_c.png';
-import se_d from '../assets/images/se_d.png';
-import lt_third from '../assets/images/lt_third.jpg';
-import th_d from '../assets/images/th_d.png';
-import th_s from '../assets/images/th_s.png';
 
 const IndexPage = () => (
   <Layout fullMenu>
+      <MetaHelmet 
+        title="라인트레이서"
+      />
     <article id="main">
       <header>
         <h2>About Linetracer</h2>
@@ -102,6 +101,14 @@ const IndexPage = () => (
             <iframe width="784" height="441" src="https://www.youtube.com/embed/UgiJ8yBeiCs?list=PLxdB5m160EjRX6fsFnJJ2dcFpma_ApuIS" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </li>
             </ul>
+
+            <div className="col-6 col-12-medium" style={{marginLeft:'10px'}}>
+            <ul className="actions stacked">
+            <li>
+            <Link className="button primary fit" to="/line-tracer">숩니 실적 보러가기</Link>
+            </li>
+            </ul>
+            </div>
 
         </div>
       </section>
