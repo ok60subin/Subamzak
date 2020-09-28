@@ -4,7 +4,7 @@ title: "졸업 작품"
 published: true
 grade: "4"
 field: "electronics"
-competition: false
+competition: true
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/gdcover.png?raw=true"
 ---
 <h3>SVM을 이용한 처방전 인식과 카트리지 방식 디스펜서를 이용한 알약 제조 시스템  </h3>
