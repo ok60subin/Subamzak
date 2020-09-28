@@ -156,7 +156,9 @@ const IndexPage = () => (
           <li className="icon fa-paper-plane">
             <h3>Bluetooth Doorlock</h3>
             <p className="korean"> 
-              무단 주거침입과 도둑 방지를 위한 블루투스 통신 원격 조종 도어락 으로 침입 알림, 원격 잠금제어, 원격으로 문닫기 기능 탑재
+              무단 주거침입과 도둑 방지를 위한 블루투스 통신 원격 조종 도어락 으로 침입 알림, 원격 잠금제어, 원격으로 문닫기 기능 탑재하여 침입시 알림과 침입자 가두기를 제공합니다.
+              <br/>
+              <Link to="/Bluetooth-Doorlock" style={{float:'right'}}>더 알아보기</Link>
             </p>
           </li>
           <li className="icon solid fa-laptop">
@@ -170,7 +172,8 @@ const IndexPage = () => (
           <li className="icon solid fa-code">
             <h3>Knock talk</h3>
             <p className="korean"> 
-              Android studio를 이용한 첫 어플리케이션 개발 프로젝트로 교수님과 학생간의 원활한 미팅을 장려합니다.
+              Android studio를 이용한 첫 어플리케이션 개발 프로젝트로 교수님과 학생간의 원활한 미팅을 장려합니다.<br/>
+              <Link to="/Knock-Talk" style={{float:'right'}}>더 알아보기</Link>
             </p>
           </li>
           <li className="icon fa-heart ">
