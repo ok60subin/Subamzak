@@ -3,7 +3,6 @@ path: "/Solar-Car"
 title: "창의적 설계 및 입문"
 published: true
 grade: "1"
-field: "mechanic"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/suncar2.png?raw=true"
 ---

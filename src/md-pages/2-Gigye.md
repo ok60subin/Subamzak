@@ -3,7 +3,6 @@ path: "/Mechanics"
 title: "기계공작실습"
 published: true
 grade: "2"
-field: "mechanic"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/sun.png?raw=true"
 ---

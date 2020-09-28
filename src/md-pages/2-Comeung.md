@@ -3,7 +3,6 @@ path: "/HandMixer"
 title: "컴퓨터 응용 제도"
 published: true
 grade: "2"
-field: "mechanic"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/mixer.png?raw=true"
 ---

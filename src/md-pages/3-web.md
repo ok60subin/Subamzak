@@ -3,7 +3,6 @@ path: "/Spicy-Subamzak"
 title: "웹 프로그래밍"
 published: true
 grade: "3"
-field: "computer"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/banner.jpg?raw=true"
 ---

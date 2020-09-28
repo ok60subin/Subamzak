@@ -1,15 +1,13 @@
 ---
 path: "/Pill-Dispenser"
-title: "졸업 작품"
+title: "졸업작품"
 published: true
 grade: "4"
-field: "electronics"
-competition: true
+competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/gdcover.png?raw=true"
 ---
-<h3>SVM을 이용한 처방전 인식과 카트리지 방식 디스펜서를 이용한 알약 제조 시스템  </h3>
 
-<p>블루투스 통신을 이용해 도어락을 제어한다. 침입자 발생 시, 경고알림과 함께 문을 봉쇄한다.</p>
+<h3>SVM을 이용한 처방전 인식과 카트리지 방식 디스펜서를 이용한 알약 제조 시스템  </h3>
 
 <h4>개요</h4>
 <p>

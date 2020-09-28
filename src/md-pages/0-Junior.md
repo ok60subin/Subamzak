@@ -3,7 +3,6 @@ path: "/Bluetooth-Doorlock"
 title: "주니어 창의 경연대회"
 published: true
 grade: "0"
-field: "electronics"
 competition: true
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/doorlockcover.png?raw=true"
 ---

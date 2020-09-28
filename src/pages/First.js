@@ -12,7 +12,7 @@ const IndexPage = ({data}) => (
       <article id="main">
         <header>
           <h2 className="Title">1st Proejct</h2>
-        <p className="korean">새내긔였던 수빈이가 무슨 짓거리들을 했으려나~</p>
+        <p className="korean">새내긔였던 수빈이는 무얼하고 놀았나~</p>
       </header>
 
 

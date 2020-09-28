@@ -3,7 +3,6 @@ path: "/Digital-Signal-Processing"
 title: "디지털 신호처리"
 published: true
 grade: "3"
-field: "electronics"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/digitalcover.png?raw=true"
 ---

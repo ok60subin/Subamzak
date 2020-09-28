@@ -3,7 +3,6 @@ path: "/Manless_YG"
 title: "마이크로 프로세서 실험"
 published: true
 grade: "3"
-field: "electronic"
 competition: false
 cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUdYh8JTACmwQbD6nYnUQBfEF6ahKvuVRzMw&usqp=CAU"
 ---

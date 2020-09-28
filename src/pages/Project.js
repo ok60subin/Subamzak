@@ -40,7 +40,7 @@ const IndexPage = ({data}) => (
 export const pageQuery = graphql`
 query IndexQuery0{
   allMarkdownRemark(
-    limit:10
+    limit:20
     sort: { fields : [frontmatter___title], order: ASC}
     filter: { frontmatter: {competition: {eq:false}}}
     ){

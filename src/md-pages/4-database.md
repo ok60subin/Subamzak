@@ -3,7 +3,6 @@ path: "/YG-Database"
 title: "데이터베이스"
 published: true
 grade: "4"
-field: "computer"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/dbcover.png?raw=true"
 ---

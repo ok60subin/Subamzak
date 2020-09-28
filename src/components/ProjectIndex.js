@@ -9,10 +9,10 @@ export default function ProjectIndex({ fullMenu }) {
                 <div className="col-5 col-12-medium">
                   <h2 className="Title">Grade</h2>
                   <ul style={{marginBottom:'0px'}}>
-                    <li><Link to="/First"><h4>1st 새내긔~</h4> </Link></li>
-                    <li><Link to="/Second"><h4>2nd 헌내긔~</h4> </Link></li>
-                    <li><Link to="/Third"><h4>3rd 고인물~</h4> </Link></li>
-                    <li><Link to="/Fourth"><h4>4th 썩은물~</h4> </Link></li>
+                    <li><Link to="/First"><h4>1st</h4> </Link></li>
+                    <li><Link to="/Second"><h4>2nd</h4> </Link></li>
+                    <li><Link to="/Third"><h4>3rd</h4> </Link></li>
+                    <li><Link to="/Fourth"><h4>4th</h4> </Link></li>
                     <li><Link to="/Project"><h4>ALL  </h4></Link></li>
                   </ul>
 

@@ -3,7 +3,6 @@ path: "/Automatic-Pinball"
 title: "전자회로 실험"
 published: true
 grade: "2"
-field: "electronic"
 competition: false
 cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/jeonjacover.png?raw=true"
 ---
