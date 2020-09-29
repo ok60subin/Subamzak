@@ -4,7 +4,7 @@ title: "디지털회로 실험"
 published: true
 grade: "2"
 competition: false
-cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/molcad.png?raw=true"
+cover: "https://github.com/ok60subin/subamzak/blob/master/src/assets/images/digcover.png?raw=true"
 ---
 
 <h3>두더지 잡기</h3>
